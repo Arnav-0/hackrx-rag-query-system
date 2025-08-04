@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+openai
+python-dotenv
+pypdf
+python-docx
+email
+pinecone-client
+tiktoken
